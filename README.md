@@ -1,2 +1,2 @@
-# Command-rank---Valorant
+# Command rank Valorant
 Rank command for channels
