@@ -114,6 +114,4 @@ If you have any questions or inquiries, please feel free to get in touch:
 
 - Discord: [ @ahmedfps ]
 
-or you can join 
-- [Discord server](https://discord.gg/vFWB2KGcH9)
-
+Thanks.
