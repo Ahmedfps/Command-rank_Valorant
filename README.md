@@ -1,5 +1,5 @@
 # Command rank Valorant
-Rank command for channels
+Rank command for channels (Youtube - Twitch)
 
 
 # Chat-Valorant-Rank
@@ -10,7 +10,7 @@ This API lets you fetch your rank dynamically, typically for making **!rank** co
 
 ### THIS IS AVAILABLE FOR ALL REGIONS
 
-# StreamElements/NightBot Usage
+# StreamElements/NightBot/Fossabot Usage
 
 Replace `region` with your account's region code, `name` with your Valorant username and `tag` with your hashtag.
 
@@ -29,7 +29,7 @@ Replace `region` with your account's region code, `name` with your Valorant user
 
 <hr>
 
-# Commands for Nightbot
+# Commands for Nightbot or another bots
 <hr>
 
 ## Rank only
@@ -61,9 +61,9 @@ Replace `region` with your account's region code, `name` with your Valorant user
 
 Here is an example for my account. This would work for most accounts.
 + Example 
-  * Username: `P4RZ1V4L#2610`
-  * Account Region: `Asia/Pacific`
-  * URL: `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/AP/P4RZ1V4L/2610)`
+  * Username: `Main#9090`
+  * Account Region: 'Europe'
+  * URL: `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/eu/Main/9090)`
 
 
 <hr>
@@ -102,8 +102,6 @@ e.g.
 
  and many more 
  <hr>
-
- #### If you want to make a dynamic command for chat which allows chat to find their own info such as Rank , lastmatch , lastcomp and etc contact me i would love to help.
 
 <hr>
 
