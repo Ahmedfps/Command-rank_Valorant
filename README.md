@@ -1,6 +1,8 @@
 # Command rank Valorant
 Rank command for channels (Youtube - Twitch)
 
+# Usage
+You can visit [Chat Command Generator - Valorant](https://ahmedfps.github.io/Command-rank_Valorant/), select the options you need, and press Generate. This will create a link for you to copy and use in whichever bot's custom command you want to.
 
 # Chat-Valorant-Rank
 This API lets you fetch your rank dynamically, typically for making **!rank** command in your Twitch/YouTube stream.
